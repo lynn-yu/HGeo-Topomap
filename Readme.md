@@ -4,11 +4,11 @@
   <p align="center">
     <a href="https://www.researchgate.net/profile/Siyu-Li-45"><strong>Siyu Li</strong></a>
     ·
-    <a href=""><strong>Kunyu Peng†</strong></a>
+    <a href="https://scholar.google.com/citations?user=pA9c0YsAAAAJ"><strong>Kunyu Peng†</strong></a>
     ·
-   <a href=""><strong>Di Wen</strong></a>
+   <a href="https://scholar.google.com/citations?user=aqGMqEcAAAAJ"><strong>Di Wen</strong></a>
     ·
-    <a href=""><strong>Beiping Hou</strong></a>
+    <a href="https://aee.zust.edu.cn/info/1101/3809.htm"><strong>Beiping Hou</strong></a>
     ·
     <a href="http://robotics.hnu.edu.cn/info/1071/1515.htm"><strong>Zhiyong Li</strong></a>
     ·
