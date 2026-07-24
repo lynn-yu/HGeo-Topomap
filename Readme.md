@@ -49,7 +49,7 @@ Please consider referencing this paper if you use the ```code``` from our work.
 Thanks a lot :)
 
 ```
-@article{li2025hgeotopomap,
+@article{li2026hgeo_topomap,
   title={HGeo-TopoMap: Boosting Topological Mapping with Hierarchical Geometric Priors},
   author={Li, Siyu and Peng, Kunyu and Wen, Di and Hou, Beiping and Li, Zhiyong and Yang, Kailun},
   journal={arXiv preprint arXiv:2607.21281},
