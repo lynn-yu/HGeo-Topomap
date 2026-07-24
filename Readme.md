@@ -26,7 +26,7 @@
 
 ## Motivation
 <div align=center>
-<img src="https://github.com/lynn-yu/HGeo-Topomap/blob/main/img2.png" >
+<img src="https://github.com/lynn-yu/HGeo-Topomap/blob/main/img2.png style="width: 60%; max-width: 800px;" >
 </div>
 
 ## Framework
