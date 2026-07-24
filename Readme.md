@@ -10,9 +10,9 @@
     ·
     <a href="https://aee.zust.edu.cn/info/1101/3809.htm"><strong>Beiping Hou</strong></a>
     ·
-    <a href="http://robotics.hnu.edu.cn/info/1071/1515.htm"><strong>Zhiyong Li</strong></a>
+    <a href="http://robotics.hnu.edu.cn/info/1176/2960.htm"><strong>Zhiyong Li</strong></a>
     ·
-    <a href="https://yangkailun.com/"><strong>Kailun Yang†</strong></a>
+    <a href="https://yangkailun.com"><strong>Kailun Yang†</strong></a>
     
 </p>
 
