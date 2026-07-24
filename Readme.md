@@ -26,12 +26,12 @@
 
 ## Motivation
 <div align=center>
-<img src="https://github.com/lynn-yu/HGeo-Topomap/blob/main/img1.png" >
+<img src="https://github.com/lynn-yu/HGeo-Topomap/blob/main/img2.png" >
 </div>
 
 ## Framework
 <div align=center>
-<img src="https://github.com/lynn-yu/HGeo-Topomap/blob/main/img2.png" >
+<img src="https://github.com/lynn-yu/HGeo-Topomap/blob/main/img1.png" >
 </div>
 
 ### Abstract
